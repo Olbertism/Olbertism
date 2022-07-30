@@ -2,10 +2,6 @@
 
 My name is Albert, I am a Full Stack Web Developer from Vienna. 
 
-I am a very diligent and responsible person
-
-![me](https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy-downsized.gif)
-
 
 <h3>Tech Stack</h3>
 
