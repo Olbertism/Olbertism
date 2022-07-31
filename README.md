@@ -2,8 +2,12 @@
 
 My name is Albert, I am a Full Stack Web Developer from Vienna. 
 
+### Focus Areas:
+- Creating helpful pieces of software in JS/TS and Python
+- Automating boring stuff
+- Keeping on learning
 
-<h3>Tech Stack</h3>
+### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-263233?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-263233?style=flat&logo=CSS3&logoColor=1572B6)
@@ -18,3 +22,6 @@ My name is Albert, I am a Full Stack Web Developer from Vienna.
 ![Git](https://img.shields.io/badge/-Git-263233?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-263233?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-263233?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/albert-pichler/)
